@@ -2,4 +2,4 @@
 ・gitの基礎学習
 ・ネットワーク入門（IPアドレス、CIDRブロックとは）
 追加
-・MYSQLの基礎
+・MYSQL、postgresqlの基礎
